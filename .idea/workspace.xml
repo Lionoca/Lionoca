@@ -5,33 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="93c4c0b9-387b-4442-a14f-f9a5dbfdc465" name="Changes" comment="configuration">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/markdown.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ARCELIA.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2023-08-05-LoggingArc4U.markdown" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2023-08-17-welcome-to-jekyll.markdown" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/404.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/ARCELIA.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/about/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/assets/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/assets/main.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/assets/minima-social-icons.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/feed.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/jekyll/update/2023/08/05/LoggingArc4U.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/jekyll/update/2023/08/17/welcome-to-jekyll.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/sitemap.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/about.markdown" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,14 +42,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/Users/joson/Lionoca",
-    "settings.editor.selected.configurable": "vcs.Git"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/joson/Lionoca&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
